@@ -4,7 +4,7 @@ DHL Remote Areas List
 
 The JSON file is created from the DHL Remote Area List
 
-Current version is from the June 2018 PDF http://www.dhl.com/content/dam/downloads/g0/express/services/surcharges/dhl_express_remote_areas.pdf
+Current version is from the April 2020 PDF https://www.dhl.com/content/dam/downloads/g0/express/services/surcharges/dhl_express_remote_areas_id_id.pdf
 
 ## Objectives
 
